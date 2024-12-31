@@ -29,6 +29,9 @@ coverage
 
 *.tsbuildinfo
 
+# new api ignores
 token.txt
 syncScreenshots.js
 service_account.json
+temp-screenshots
+synced_files.json
