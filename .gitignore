@@ -28,3 +28,7 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+token.txt
+syncScreenshots.js
+service_account.json
